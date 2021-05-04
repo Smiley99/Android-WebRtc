@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/korechi/Desktop/Repositories/WebRTC/Android-WebRtc/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_sample_data_channel.xml",
+        "source": "/home/korechi/Desktop/Repositories/WebRTC/Android-WebRtc/app/src/main/res/layout/activity_sample_data_channel.xml"
+    },
+    {
+        "merged": "/home/korechi/Desktop/Repositories/WebRTC/Android-WebRtc/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_call.xml",
+        "source": "/home/korechi/Desktop/Repositories/WebRTC/Android-WebRtc/app/src/main/res/layout/activity_call.xml"
+    },
+    {
+        "merged": "/home/korechi/Desktop/Repositories/WebRTC/Android-WebRtc/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_sample_camera_render.xml",
+        "source": "/home/korechi/Desktop/Repositories/WebRTC/Android-WebRtc/app/src/main/res/layout/activity_sample_camera_render.xml"
+    },
+    {
+        "merged": "/home/korechi/Desktop/Repositories/WebRTC/Android-WebRtc/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_sample_peer_connection.xml",
+        "source": "/home/korechi/Desktop/Repositories/WebRTC/Android-WebRtc/app/src/main/res/layout/activity_sample_peer_connection.xml"
+    },
+    {
+        "merged": "/home/korechi/Desktop/Repositories/WebRTC/Android-WebRtc/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/home/korechi/Desktop/Repositories/WebRTC/Android-WebRtc/app/src/main/res/layout/activity_main.xml"
+    }
+]

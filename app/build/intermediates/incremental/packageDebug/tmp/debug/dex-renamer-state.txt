@@ -1,0 +1,4 @@
+#Tue May 04 09:00:58 EDT 2021
+base.0=/home/korechi/Desktop/Repositories/WebRTC/Android-WebRtc/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
